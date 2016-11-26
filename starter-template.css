@@ -1,0 +1,21 @@
+body {
+  padding-top: 10px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.cover-picture {
+  height:700px;
+  padding:40px;
+}
+
+.custom-page-header {
+  text-align: center;
+  font-size: 80px;
+}
+
+.push-down {
+  margin-top: 50px;
+}
