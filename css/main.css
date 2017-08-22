@@ -15,9 +15,14 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
+    transition: color 2s;
 }
 a:hover {
     text-decoration: underline;
+}
+a.fa:hover{
+    text-decoration: none;
+    color: #cccccc;
 }
 h1 {
     font-size: 3em;
@@ -41,4 +46,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-Don't
