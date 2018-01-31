@@ -1,2 +1,7 @@
 # kevinjihwanlee.github.io
-Personal website for testing.
+Personal website.
+
+#To-Do
+* Add about and projects section
+* Favicon
+* Add the down arrow 
