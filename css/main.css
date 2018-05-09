@@ -6,7 +6,6 @@ body {
 h3 {
     margin: 0px;
     font-weight: lighter;
-
 }
 #header {
     padding-top: 50px;
@@ -27,15 +26,20 @@ h3 {
     place-self: center;
 }
 .icons a{
-    transition:0.25s;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
     color:black;
     padding: 6px;
 }
-
+.icons a:hover{
+    color:gray;
+}
 #banner {
     background-color: #D1E8E2;
 }
-
 img {
     border-radius: 50%;
 }
