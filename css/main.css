@@ -1,7 +1,31 @@
-.container-fluid {
-    height: 100vh;
+body {
+	max-width: 800px;
+	margin: auto;
+    font-family: 'Muli', sans-serif;
 }
+h3 {
+    margin: 0px;
+    font-weight: lighter;
 
+}
+#header {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: [firsthalf] 50% [secondhalf] 50%;
+    grid-template-rows: [title] 25% [rest] auto;
+}
+#email {
+    margin-top: 20px;
+    font-family: 'Roboto Mono', monospace;
+}
+.left {
+    grid-column-start: firsthalf;
+}
+.right{
+    grid-column-start: secondhalf;
+    grid-row-start: title;
+    place-self: center;
+}
 .icons a{
     transition:0.25s;
     color:black;
