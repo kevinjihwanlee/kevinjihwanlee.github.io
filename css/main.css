@@ -25,7 +25,16 @@ h3 {
     grid-row-start: title;
     place-self: center;
 }
-.icons a{
+a {
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+    color:purple;
+    text-decoration:none;
+}
+.icons a {
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -34,7 +43,7 @@ h3 {
     color:black;
     padding: 6px;
 }
-.icons a:hover{
+a:hover{
     color:gray;
 }
 #banner {
