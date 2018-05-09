@@ -2,6 +2,8 @@ body {
 	max-width: 800px;
 	margin: auto;
     font-family: 'Muli', sans-serif;
+    word-spacing:2px;
+    line-height:1.5em
 }
 h3 {
     margin: 0px;
@@ -12,6 +14,10 @@ h3 {
     display: grid;
     grid-template-columns: [firsthalf] 50% [secondhalf] 50%;
     grid-template-rows: [title] 25% [rest] auto;
+}
+#aboutme{
+    display:grid;
+    grid-template-columns: [first] 25% [rest] auto
 }
 #email {
     margin-top: 20px;
