@@ -40,6 +40,10 @@ a {
     color:purple;
     text-decoration:none;
 }
+.icons {
+    padding-top:50px;
+    text-align: center
+}
 .icons a {
     -o-transition:.5s;
     -ms-transition:.5s;
