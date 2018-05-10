@@ -3,9 +3,10 @@ body {
 	margin: auto;
     font-family: 'Muli', sans-serif;
     word-spacing:2px;
-    line-height:1.5em
+    line-height:1.5em;
+    /* background-color:#c4ceff; */
 }
-h3 {
+.head {
     margin: 0px;
     font-weight: lighter;
 }
@@ -15,13 +16,14 @@ h3 {
     grid-template-columns: [firsthalf] 50% [secondhalf] 50%;
     grid-template-rows: [title] 25% [rest] auto;
 }
-#aboutme{
+section {
     display:grid;
     grid-template-columns: [first] 25% [rest] auto
 }
 #email {
     margin-top: 20px;
     font-family: 'Roboto Mono', monospace;
+    font-weight: lighter;
 }
 .left {
     grid-column-start: firsthalf;
@@ -40,10 +42,11 @@ a {
     color:purple;
     text-decoration:none;
 }
-.icons {
-    padding-top: 50px;
-    text-align: center;
+h3 a {
+    color: black;
+    margin-right:5px
 }
+
 .icons a {
     -o-transition:.5s;
     -ms-transition:.5s;
@@ -58,6 +61,11 @@ a:hover{
 }
 #banner {
     background-color: #D1E8E2;
+}
+#footer {
+    text-align:center;
+    padding-top:25px;
+    padding-bottom:50px;
 }
 img {
     border-radius: 50%;
