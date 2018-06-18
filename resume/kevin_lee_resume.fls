@@ -1,8 +1,8 @@
-PWD /Users/kevinlee/Downloads/Software Developer Resume
+PWD /Users/kevinlee/Projects/kevinjihwanlee.github.io/resume
 INPUT /usr/local/texlive/2017/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/kevinlee/Downloads/Software Developer Resume/kevin_lee_resume.tex
+INPUT /Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.tex
 OUTPUT kevin_lee_resume.log
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
