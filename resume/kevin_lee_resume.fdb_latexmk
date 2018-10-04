@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1529356401 "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.tex" "kevin_lee_resume.pdf" "kevin_lee_resume" 1529356405
-  "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.tex" 1529356401 6110 7a06f9dc504347267e4a028919489a70 ""
+["pdflatex"] 1538673207 "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.tex" "kevin_lee_resume.pdf" "kevin_lee_resume" 1538673207
+  "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.tex" 1538673206 6197 5ecea3f5c67741fcc58286ac8246e389 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -61,11 +61,11 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "kevin_lee_resume.aux" 1529356402 1096 af87604cd76963da3083a41f3cae1a8f ""
-  "kevin_lee_resume.out" 1529356402 246 db54b8f88500aeb27bf876b8ee438594 ""
-  "kevin_lee_resume.tex" 1529356401 6110 7a06f9dc504347267e4a028919489a70 ""
+  "kevin_lee_resume.aux" 1538673207 1096 af87604cd76963da3083a41f3cae1a8f ""
+  "kevin_lee_resume.out" 1538673207 246 db54b8f88500aeb27bf876b8ee438594 ""
+  "kevin_lee_resume.tex" 1538673206 6197 5ecea3f5c67741fcc58286ac8246e389 ""
   (generated)
-  "kevin_lee_resume.aux"
-  "kevin_lee_resume.out"
   "kevin_lee_resume.log"
+  "kevin_lee_resume.out"
+  "kevin_lee_resume.aux"
   "kevin_lee_resume.pdf"
