@@ -61,6 +61,12 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/fontawesome.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/fontawesome.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex
 INPUT kevin_lee_resume.aux
 INPUT kevin_lee_resume.aux
 OUTPUT kevin_lee_resume.aux
@@ -93,6 +99,9 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
@@ -105,6 +114,8 @@ INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT kevin_lee_resume.aux
 INPUT ./kevin_lee_resume.out
 INPUT ./kevin_lee_resume.out
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
