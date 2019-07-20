@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1563654070 "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.tex" "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.pdf" "kevin_lee_resume" 1563654103
-  "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.aux" 1563654070 1096 af87604cd76963da3083a41f3cae1a8f ""
-  "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.tex" 1563654103 6486 32ef98a64f2ba8e6f480abc01052df3f ""
+["pdflatex"] 1563654383 "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.tex" "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.pdf" "kevin_lee_resume" 1563654387
+  "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.aux" 1563654384 1096 af87604cd76963da3083a41f3cae1a8f ""
+  "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.tex" 1563654350 6486 32ef98a64f2ba8e6f480abc01052df3f ""
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1480098667 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -69,13 +69,13 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "kevin_lee_resume.aux" 1563654070 1096 af87604cd76963da3083a41f3cae1a8f ""
-  "kevin_lee_resume.out" 1563654070 246 db54b8f88500aeb27bf876b8ee438594 ""
-  "kevin_lee_resume.tex" 1563654103 6486 32ef98a64f2ba8e6f480abc01052df3f ""
+  "kevin_lee_resume.aux" 1563654384 1096 af87604cd76963da3083a41f3cae1a8f ""
+  "kevin_lee_resume.out" 1563654384 246 db54b8f88500aeb27bf876b8ee438594 ""
+  "kevin_lee_resume.tex" 1563654350 6486 32ef98a64f2ba8e6f480abc01052df3f ""
   (generated)
+  "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.pdf"
+  "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.log"
   "kevin_lee_resume.out"
   "kevin_lee_resume.pdf"
-  "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.pdf"
   "kevin_lee_resume.aux"
   "kevin_lee_resume.log"
-  "/Users/kevinlee/Projects/kevinjihwanlee.github.io/resume/kevin_lee_resume.log"
