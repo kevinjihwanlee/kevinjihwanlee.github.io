@@ -15,6 +15,7 @@
 \usepackage{enumitem}
 \usepackage[pdftex]{hyperref}
 \usepackage{fancyhdr}
+\usepackage{fontawesome}
 
 
 \pagestyle{fancy}
@@ -74,8 +75,9 @@
 
 %----------HEADING-----------------
 \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-  \textbf{\href{http://kevinjihwanlee.com/}{\Large Kevin Lee}} & Email : kevinlee2020@u.northwestern.edu \\
-  \href{http://kevinjihwanlee.com/}{http://www.kevinjihwanlee.com} & Mobile : +1-773-647-6146 \\
+  \textbf{\href{http://kevinjihwanlee.com/}{\Large Kevin Lee}} \\
+  \faGlobe \enspace \href{http://kevinjihwanlee.com/}{http://www.kevinjihwanlee.com} & \faEnvelope \enspace kevinlee2020@u.northwestern.edu \\
+  \faGithub \enspace kevinjihwanlee & \faPhone \enspace +1-773-647-6146 \\
 \end{tabular*}
 
 
@@ -84,34 +86,33 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {Northwestern University}{Evanston, IL}
-      {Bachelor of Science in Computer Science;  GPA: 3.43}{Sept 2016 -- expected Jun 2020}
+      {Bachelor of Science in Computer Science - GPA: 3.48}{Sept 2016 -- expected Jun 2020}
   \resumeSubHeadingListEnd
 
 
 %-----------EXPERIENCE-----------------
 \section{Experience}
   \resumeSubHeadingListStart
-
     \resumeSubheading
-      {Segal Design Institute}{Evanston, IL}
-      {Web Development Intern}{Jan 2018 - Present}
+      {The Aerospace Corporation}{El Segundo, CA}
+      {Web and Mobile Development Intern}{Jun 2019 - Sept 2019}
       \resumeItemListStart
         \resumeItem{}
-          {Enhanced and designed core features of open courseware web application used to train over two hundred college students in operating heavy machinery}
+          {Designed and built an internal development tool for tracking automated email log files using React, Node, and MySQL}
         \resumeItem{}
-          {Implemented a user survey system using the Vue.js framework for the frontend and AWS AppSync, DynamoDB, Lambda for the backend}
+          {Implemented calendar widget that integrates company intranet portal with the Microsoft Graph API, connecting 3600 employees to their Microsoft Outlook data}
       \resumeItemListEnd
     \resumeSubheading
-      {Northwestern University Information Technology}{Evanston, IL}
-      {Tier 1 Support Consultant}{Feb 2017 - Present}
+      {Northwestern IT Academic Software Development}{Evanston, IL}
+      {Lead Student Developer}{Jan 2018 - Present}
       \resumeItemListStart
         \resumeItem{}
-          {Restoring productivity of Northwestern community members by triaging and resolving their technology issues}
-        \resumeItem{}
-          {Collaborating with full-time staff by analyzing and correctly assigning specialized issues to specific departments}
+          {Developing and implementing various Northwestern web and mobile applications using JavaScript libraries (React, Vue), NodeJS, PHP, and Drupal/WordPress}
+          \resumeItem{}
+          {Enhanced and designed core features of NUSTART, an open courseware web application used to train over two hundred college students in operating heavy machinery}
+          \resumeItem{}
+            {Implemented a user survey system using Vue and Amazon Web Services (AppSync, DynamoDB, S3, Lambda)}
       \resumeItemListEnd
-    
-
   \resumeSubHeadingListEnd
 
 %-----------LEADERSHIP-----------------
@@ -122,37 +123,37 @@
       {Web Development Educator}{Apr 2018 - Present}
       \resumeItemListStart
         \resumeItem{}
-          {Created and led a tutorial session on HTML, CSS, and JavaScript for building a personal website to 20 Northwestern students}
+          {Wrote and led a tutorial session on HTML5, CSS3, and vanilla JavaScript for building a personal website to 20 Northwestern students}
       \resumeItemListEnd
     \resumeSubheading
-      {Institute of Electrical and Electronics Engineers}{Evanston, IL}
-      {Technical Program Director}{Sept 2016 - Present}
+      {K-Sound WNUR 89.3FM}{Evanston, IL}
+      {DJ}{Jan 2018 - Present}
       \resumeItemListStart
         \resumeItem{}
-          {Served as a project manager and currently acting as director for the IE3 technical program, where I led brainstorming and hacking sessions to help other students design and create a web application in React and Node.js/Express}
+          {Created weekly playlists of Korean indie music for our weekly Saturday night shows, broadcasted to the Chicagoland area}
+        \resumeItemListEnd
+    \resumeSubheading
+      {Institute of Electrical and Electronics Engineers}{Evanston, IL}
+      {Technical Program Director}{Sept 2016 - Mar 2019}
+      \resumeItemListStart
+        \resumeItem{}
+          {Served as a project manager and director for the IE3 technical program, where I led brainstorming and hacking sessions to help other students design and create web applications in React, React Native, and Node/Express}
         \resumeItem{}
           {Organized BadHacks, an 8-hour hackathon for the Northwestern community with 100 recorded attendees, designed event programming and venue layout}      
-      \resumeItemListEnd
-      \resumeSubheading
-        {Northwestern Korean American Student Association}{Evanston, IL}
-        {Fundraising Chair}{Mar 2017 - May 2018}
-        \resumeItemListStart
-          \resumeItem{}
-            {Raised \$10,160 within a month to fund our cultural show by initializing food sales, managing an online crowdfunding platform, and reaching out to local businesses for sponsorships}          
       \resumeItemListEnd
     \resumeSubHeadingListEnd
 
 %-----------PROJECTS-----------------
 \section{Projects}
   \resumeSubHeadingListStart
+    \resumeSubItem{Serif.nu: }
+      {Northwestern University course scheduler used by over 7000 students, built with React and Redux, tested with Jest and Enzyme. Deployed at https://serif.nu}
+    \resumeSubItem{Portfolio Manager: }
+      {Financial portfolio manager built with Python on Flask using SQL with an Oracle 11g database}
     \resumeSubItem{NUDining Reporter: }
       {Alexa skill built with Python and BeautifulSoup to scrape the Northwestern dining website and report the daily dish of the day based on dining hall}
     \resumeSubItem{Dealflow: }
       {Google Apps Script written in JavaScript that finds and replaces categorically matched words across Google Documents in a folder to match a central database}
-    \resumeSubItem{KASCON 2018 Website: }
-      {Static website for the 29th annual Korean-American Student Conference built with HTML, CSS/Sass, Bootstrap v4, and JavaScript}
-    \resumeSubItem{Veggie Warehouse: }
-      {Vegetable warehouse simulation game scripted with C\# within the Unity game engine}
   \resumeSubHeadingListEnd
 
 %
@@ -160,11 +161,10 @@
 \section{Programming Skills}
  \resumeSubHeadingListStart
    \item{
-     \textbf{Languages}{: Python, JavaScript, HTML/CSS}
+     \textbf{Languages}{: JavaScript (ES6), Python, SQL }
    }
    \item{
-    \textbf{Technologies}{: AWS AppSync/Cognito/DynamoDB, Vue.js, GraphQL, Node.js}
-
+    \textbf{Technologies}{: HTML5/CSS3, React, Redux, Vue, Enzyme, Jest, Node, Amazon Web Services (AppSync, DynamoDB, S3, Lambda)}
    }
  \resumeSubHeadingListEnd
 
